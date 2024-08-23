@@ -1,0 +1,6 @@
+@AcController_HostAddress = http://localhost:5064
+
+GET {{AcController_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
